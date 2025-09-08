@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Luna  
 Frontend Developer | UX/UI Designer | Visual Arts + Code
-
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/luna-bujalesky-b60561267))
 <!--
 **LunaBujalesky/LunaBujalesky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
