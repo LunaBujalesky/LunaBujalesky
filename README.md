@@ -29,6 +29,9 @@ Native Spanish / C1 English
 ## 📌 Featured projects
 - 🌱 [PlantBuddies](https://plantbuddiesapp.netlify.app) → Web app for plant exchange and community (HTML + SCSS + JS + JSON)
 - 🕵️ [EpicEscapeRooms](https://lunabujalesky.github.io/EpicEscapeRooms) → Escape room booking system with a hidden game (HTML + JS + JSON)
+
+- ## 📌 Interactive and Crossdisciplinary projects
+- [![Diego](https://github.com/DiegoBujalesky.png?size=40)](https://github.com/DiegoBujalesky)
 - 🎮 [ResponsiveEsculptures](https://www.youtube.com/watch?v=eLbe9coqZmc) → my interdisciplinary thesis for University, ARTS (ceramics) + CODE (arduino), colaborative interaction by touch and sound.
 -[Formal Research/Paper here] (https://sedici.unlp.edu.ar/handle/10915/176935)
 - 🎮 [The limits of the body](https://www.instagram.com/p/C0XX4etv7KJ) → another interdisciplinary proyect for University, ARTS (ceramics) + CODE (arduino) + digital handrawing animation, individual interaction by weight and sound.
