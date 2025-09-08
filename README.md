@@ -43,4 +43,4 @@ These projects where in colaboration with:
   <img src="https://github.com/die-jimenez.png?size=40" width="40" height="40" style="border-radius: 50%; vertical-align: middle;" />
   <span style="vertical-align: middle; margin-left: 8px; color: #000;">Diego</span>
 </a>
-[![Diego](https://img.shields.io/badge/-Diego-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/die-jimenez)
+
