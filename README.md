@@ -1,7 +1,8 @@
 # 👋 Hi, I'm Luna  
 Frontend Developer | UX/UI Designer | Visual Arts + Code
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/luna-bujalesky-b60561267))
-
+<br>
 <!--
 **LunaBujalesky/LunaBujalesky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -23,7 +24,7 @@ Frontend Developer | UX/UI Designer | Visual Arts + Code
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ## 📌 Featured projects
-- 🌱 [PlantBuddies]((https://plantbuddiesapp.netlify.app)) → Web app for plant exchange and community (HTML + SCSS + JS + JSON)
-- 🕵️ [EpicEscapeRooms]((https://lunabujalesky.github.io/EpicEscapeRooms)) → Escape room booking system with a hidden game (HTML + JS + JSON)
-- 🎮 [ResponsiveEsculptures/EsculturasResponsivas]((https://www.youtube.com/watch?v=eLbe9coqZmc)) → my interdisciplinary thesis for University, ARTS (ceramics) + CODE (arduino), colaborative interaction by touch and sound.
+- 🌱 [PlantBuddies](https://plantbuddiesapp.netlify.app) → Web app for plant exchange and community (HTML + SCSS + JS + JSON)
+- 🕵️ [EpicEscapeRooms](https://lunabujalesky.github.io/EpicEscapeRooms) → Escape room booking system with a hidden game (HTML + JS + JSON)
+- 🎮 [ResponsiveEsculptures/EsculturasResponsivas](https://www.youtube.com/watch?v=eLbe9coqZmc) → my interdisciplinary thesis for University, ARTS (ceramics) + CODE (arduino), colaborative interaction by touch and sound.
 - 🎮 [The limits of the body/Finitud de lo corpóreo](https://www.instagram.com/p/C0XX4etv7KJ) → another interdisciplinary proyect for University, ARTS (ceramics) + CODE (arduino) + digital handrawing animation, individual interaction by weight and sound.
