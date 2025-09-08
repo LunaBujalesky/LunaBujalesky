@@ -26,12 +26,12 @@ Native Spanish / C1 English
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-## 📌 Featured projects
+## 📌 Digital only Featured projects
 - 🌱 [PlantBuddies](https://plantbuddiesapp.netlify.app) → Web app for plant exchange and community (HTML + SCSS + JS + JSON)
 - 🕵️ [EpicEscapeRooms](https://lunabujalesky.github.io/EpicEscapeRooms) → Escape room booking system with a hidden game (HTML + JS + JSON)
 
 - ## 📌 Interactive and Crossdisciplinary projects
-- [![Diego](https://github.com/DiegoBujalesky.png?size=40)](https://github.com/die-jimenez)
+[![Diego](https://github.com/die-jimenez.png?size=40)](https://github.com/die-jimenez)
 - 🎮 [ResponsiveEsculptures](https://www.youtube.com/watch?v=eLbe9coqZmc) → my interdisciplinary thesis for University, ARTS (ceramics) + CODE (arduino), colaborative interaction by touch and sound.
 -[Formal Research/Paper here] (https://sedici.unlp.edu.ar/handle/10915/176935)
 - 🎮 [The limits of the body](https://www.instagram.com/p/C0XX4etv7KJ) → another interdisciplinary proyect for University, ARTS (ceramics) + CODE (arduino) + digital handrawing animation, individual interaction by weight and sound.
