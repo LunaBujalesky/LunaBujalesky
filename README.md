@@ -31,10 +31,16 @@ Native Spanish / C1 English
 - 🕵️ [EpicEscapeRooms](https://lunabujalesky.github.io/EpicEscapeRooms) → Escape room booking system with a hidden game (HTML + JS + JSON)
 
 - ## 📌 Interactive and Crossdisciplinary projects
+<br>
+- 🎮 [ResponsiveEsculptures](https://www.youtube.com/watch?v=eLbe9coqZmc) → my interdisciplinary thesis for University, ARTS (ceramics) + CODE (arduino), colaborative interaction by touch and sound.
+-[Formal Research/Paper here] (https://sedici.unlp.edu.ar/handle/10915/176935)
+<br>
+- 🎮 [The limits of the body](https://www.instagram.com/p/C0XX4etv7KJ) → another interdisciplinary proyect for University, ARTS (ceramics) + CODE (arduino) + digital handrawing animation, individual interaction by weight and sound.
+<br>
+These projects where in colaboration with:
+<br>
 <a href="https://github.com/die-jimenez" target="_blank" style="text-decoration: none;">
   <img src="https://github.com/die-jimenez.png?size=40" width="40" height="40" style="border-radius: 50%; vertical-align: middle;" />
   <span style="vertical-align: middle; margin-left: 8px; color: #000;">Diego</span>
 </a>
-- 🎮 [ResponsiveEsculptures](https://www.youtube.com/watch?v=eLbe9coqZmc) → my interdisciplinary thesis for University, ARTS (ceramics) + CODE (arduino), colaborative interaction by touch and sound.
--[Formal Research/Paper here] (https://sedici.unlp.edu.ar/handle/10915/176935)
-- 🎮 [The limits of the body](https://www.instagram.com/p/C0XX4etv7KJ) → another interdisciplinary proyect for University, ARTS (ceramics) + CODE (arduino) + digital handrawing animation, individual interaction by weight and sound.
+[![Diego](https://img.shields.io/badge/-Diego-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/die-jimenez)
