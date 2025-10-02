@@ -57,27 +57,23 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
-      <h3 align="right">📌 Digital only Featured projects</h3>
+    <h3 align="center">📌 Digital only Featured projects</h3>
 <table>
   <tr>
     <td valign="top" align="center" width="150">
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJhd2k4dDIyZHNyNnluMTF6amJmenpyand4YWRlOTJoN2ZtcHRhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sZ6ipJV1HDOajnb7Rg/giphy.gif" width="120"/>
     </td>
-    <td valign="top" align="center">
-      <table>
-        <tr>
-          <td valign="top" align="center" style="padding: 10px;">
-            🌱 <a href="https://plantbuddiesapp.netlify.app">PlantBuddies</a><br/>
-            Web app for plant exchange and community<br/>
-            <b>HTML + SCSS + JS + JSON</b>
-          </td>
-          <td valign="top" align="center" style="padding: 10px;">
-            🕵️ <a href="https://epicescaperooms.netlify.app">EpicEscapeRooms</a><br/>
-            Escape room booking system with a hidden game<br/>
-            <b>HTML + JS + JSON</b>
-          </td>
-        </tr>
-      </table>
+    <td valign="top" align="center" style="padding: 0 20px;">
+      <p style="margin-bottom: 20px;">
+        🌱 <a href="https://plantbuddiesapp.netlify.app">PlantBuddies</a><br/>
+        Web app for plant exchange and community<br/>
+        <b>HTML + SCSS + JS + JSON</b>
+      </p>
+      <p>
+        🕵️ <a href="https://epicescaperooms.netlify.app">EpicEscapeRooms</a><br/>
+        Escape room booking system with a hidden game<br/>
+        <b>HTML + JS + JSON</b>
+      </p>
     </td>
     <td valign="top" align="center" width="150">
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BkbzNzemFhazJydGFmOWUydGtoZXRnM2ZtczZkNGV1NTVnbG43YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9rPrjB5xxuFkxcYVTC/giphy.gif" width="120"/>
