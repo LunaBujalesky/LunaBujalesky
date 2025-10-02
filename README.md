@@ -1,7 +1,7 @@
 #<h1 align="center">👋 Hi! I'm Luna Bujalesky, FrontEnd Developer</h1>
 <h2 align="center">Frontend Developer | UX/UI Designer | Visual Arts + Code</h2>
 <h3 align="center">Native Spanish / C1 English</h3>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJhd2k4dDIyZHNyNnluMTF6amJmenpyand4YWRlOTJoN2ZtcHRhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sZ6ipJV1HDOajnb7Rg/giphy.gif" width="120"/><h3 align="center">Open to Work</h3><img src="[https://giphy.com/stickers/frog-fric-dric-CF5JK0bAdnRHvaETg9](https://giphy.com/stickers/frog-fric-dric-CF5JK0bAdnRHvaETg9)" width="120"/>
+<img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJhd2k4dDIyZHNyNnluMTF6amJmenpyand4YWRlOTJoN2ZtcHRhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sZ6ipJV1HDOajnb7Rg/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnU4YmR3M3F3M21namhuMGNpeHduYTU1eW0zMGs5OHVkNHU3amdhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PS8myGd5ItNfBfitEp/giphy.gif)" width="120"/><h3 align="center">Open to Work</h3><img src="[[https://giphy.com/stickers/frog-fric-dric-CF5JK0bAdnRHvaETg9]](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazczd2w5M3hlenR4cXQ4aXlmYTltcGZ2eXJ1enB0cGkxYnQyNDdtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CF5JK0bAdnRHvaETg9/giphy.gif)" width="120"/>
 <br>
 
 ## Let´s get in touch!
