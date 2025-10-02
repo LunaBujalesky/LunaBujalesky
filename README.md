@@ -60,24 +60,18 @@
 
 <table>
   <tr>
-    <!-- Columna izquierda: GIF -->
     <td valign="top" align="center" width="150">
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJhd2k4dDIyZHNyNnluMTF6amJmenpyand4YWRlOTJoN2ZtcHRhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sZ6ipJV1HDOajnb7Rg/giphy.gif" width="120"/>
     </td>
-
-    <!-- Columna central: Proyectos -->
     <td valign="top" align="center">
       <h3>📌 Digital only Featured projects</h3>
       <table>
         <tr>
-          <!-- Proyecto 1 -->
           <td valign="top" align="center" style="padding: 10px;">
             🌱 <a href="https://plantbuddiesapp.netlify.app">PlantBuddies</a><br/>
             Web app for plant exchange and community<br/>
             <b>HTML + SCSS + JS + JSON</b>
           </td>
-
-          <!-- Proyecto 2 -->
           <td valign="top" align="center" style="padding: 10px;">
             🕵️ <a href="https://epicescaperooms.netlify.app">EpicEscapeRooms</a><br/>
             Escape room booking system with a hidden game<br/>
@@ -86,8 +80,6 @@
         </tr>
       </table>
     </td>
-
-    <!-- Columna derecha: GIF -->
     <td valign="top" align="center" width="150">
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BkbzNzemFhazJydGFmOWUydGtoZXRnM2ZtczZkNGV1NTVnbG43YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9rPrjB5xxuFkxcYVTC/giphy.gif" width="120"/>
     </td>
