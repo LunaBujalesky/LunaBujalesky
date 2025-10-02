@@ -70,7 +70,8 @@
       <p style="margin-bottom: 20px;">
         🌱 <h3><a href="https://plantbuddiesapp.netlify.app">PlantBuddies</a></h3><br/>
         Web app for plant exchange and community<br/>
-        <b>HTML + SCSS + JS + JSON</b>
+        <br>HTML + SCSS + JS + JSON</br>
+  <br>In colaboration with <a href="https://epicescaperooms.netlify.app">Romi</a></br>
       </p>
       <p>
         🕵️ <h3><a href="https://epicescaperooms.netlify.app">EpicEscapeRooms</a></h3><br/>
