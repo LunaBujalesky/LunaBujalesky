@@ -57,14 +57,13 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
-
+      <h3 align="right">📌 Digital only Featured projects</h3>
 <table>
   <tr>
     <td valign="top" align="center" width="150">
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJhd2k4dDIyZHNyNnluMTF6amJmenpyand4YWRlOTJoN2ZtcHRhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sZ6ipJV1HDOajnb7Rg/giphy.gif" width="120"/>
     </td>
     <td valign="top" align="center">
-      <h3>📌 Digital only Featured projects</h3>
       <table>
         <tr>
           <td valign="top" align="center" style="padding: 10px;">
