@@ -19,7 +19,7 @@
   <tr>
     <td>
       <!-- GIF a la izquierda -->
-      <img src="https://media.giphy.com/media/3o7TKr3k5wU9X0Ckqk/giphy.gif" width="150"/>
+      <img src="https://thekenji.xyz/images/toaddance1.gif" width="150"/>
     </td>
     <td align="right">
       <!-- Texto alineado a la derecha -->
