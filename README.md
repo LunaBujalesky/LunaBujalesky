@@ -37,7 +37,7 @@ Native Spanish / C1 English
 - 🌱 [PlantBuddies](https://plantbuddiesapp.netlify.app) → Web app for plant exchange and community (HTML + SCSS + JS + JSON)
 - 🕵️ [EpicEscapeRooms](https://epicescaperooms.netlify.app)→ Escape room booking system with a hidden game (HTML + JS + JSON)
 
-- ## 📌 Interactive and Crossdisciplinary projects
+- ## 📌 Interactive and Crossdisciplinary projects 
 <br>
 - 🎮 [ResponsiveEsculptures](https://www.youtube.com/watch?v=eLbe9coqZmc) → my interdisciplinary thesis for University, ARTS (ceramics) + CODE (arduino), colaborative interaction by touch and sound.
 - [Formal Research/Paper here](https://sedici.unlp.edu.ar/handle/10915/176935)
