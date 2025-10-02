@@ -35,7 +35,7 @@ Native Spanish / C1 English
 
 ## 📌 Digital only Featured projects
 - 🌱 [PlantBuddies](https://plantbuddiesapp.netlify.app) → Web app for plant exchange and community (HTML + SCSS + JS + JSON)
-- 🕵️ [EpicEscapeRooms](https://lunabujalesky.github.io/EpicEscapeRooms) → Escape room booking system with a hidden game (HTML + JS + JSON)
+- 🕵️ [EpicEscapeRooms]([https://lunabujalesky.github.io/EpicEscapeRooms](https://epicescaperooms.netlify.app)) → Escape room booking system with a hidden game (HTML + JS + JSON)
 
 - ## 📌 Interactive and Crossdisciplinary projects
 <br>
