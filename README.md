@@ -15,6 +15,7 @@
 
 <!--
 **LunaBujalesky/LunaBujalesky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+ ## <h3 align="right">🚀 About me</h3>
 <table>
   <tr>
     <td>
@@ -23,7 +24,7 @@
     </td>
     <td align="right">
       <!-- Texto alineado a la derecha -->
-      ## 🚀 About me
+     
       - Passionate about creating products as experiences, and responsive, accessible interfaces.
       - 🎨 Background in Visual Arts + UX/UI → I design AND build.
       - 💻 Focused on interactive web apps and creative coding.
