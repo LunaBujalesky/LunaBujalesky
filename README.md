@@ -66,22 +66,20 @@
 <table>
   <tr>
     <!-- Columna izquierda: colaboración -->
-    <td width="250" valign="top" align="left">
-      <p>
-        These projects were in collaboration with:
-      </p>
+    <td width="200" valign="middle" align="center">
+      <p style="margin: 0;">These projects were in collaboration with:</p>
       <a href="https://github.com/die-jimenez" target="_blank" style="text-decoration: none;">
-        <img src="https://github.com/die-jimenez.png?size=80" width="80" height="80" style="border-radius: 50%; vertical-align: middle;" />
-        <span style="vertical-align: middle; margin-left: 8px; color: #000; font-weight: bold;">Diego</span>
+        <img src="https://github.com/die-jimenez.png?size=80" width="80" height="80" style="border-radius: 50%; margin-top: 10px;" />
       </a>
+      <p style="margin: 5px 0 0 0; font-weight: bold; color: #000;">Diego</p>
     </td>
 
     <!-- Columna derecha: proyectos -->
     <td valign="top" align="left">
       <ul>
-        <li>🎮 <a href="https://www.youtube.com/watch?v=eLbe9coqZmc">ResponsiveEsculptures</a> → my interdisciplinary thesis for University, ARTS (ceramics) + CODE (arduino), collaborative interaction by touch and sound.</li>
-        <li><a href="https://sedici.unlp.edu.ar/handle/10915/176935">Formal Research/Paper here</a></li>
-        <li>🎮 <a href="https://www.instagram.com/p/C0XX4etv7KJ">The limits of the body</a> → another interdisciplinary project for University, ARTS (ceramics) + CODE (arduino) + digital handrawing animation, individual interaction by weight and sound.</li>
+        <li>🎮 <a href="https://www.youtube.com/watch?v=eLbe9coqZmc">ResponsiveEsculptures</a> → interdisciplinary thesis for University, ARTS (ceramics) + CODE (arduino), collaborative interaction by touch and sound.</li>
+        <li>📄 <a href="https://sedici.unlp.edu.ar/handle/10915/176935">Formal Research/Paper</a></li>
+        <li>🎮 <a href="https://www.instagram.com/p/C0XX4etv7KJ">The limits of the body</a> → interdisciplinary project for University, ARTS (ceramics) + CODE (arduino) + digital handrawing animation, individual interaction by weight and sound.</li>
       </ul>
     </td>
   </tr>
