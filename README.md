@@ -22,16 +22,13 @@
       <!-- GIF a la izquierda -->
       <img src="https://thekenji.xyz/images/toaddance1.gif" width="150"/>
     </td>
-    <td align="right">
-      <!-- Texto alineado a la derecha -->
-     
-      - Passionate about creating products as experiences, and responsive, accessible interfaces.
-      - 🎨 Background in Visual Arts + UX/UI → I design AND build.
-      - 💻 Focused on interactive web apps and creative coding.
-      - 🌱 Currently mastering React, Tailwind, and Web Animations.
-      - 🎮 Exploring gamified interfaces and web-based storytelling.
-    </td>
-  </tr>
+  <td align="right">
+  <h3>- Passionate about creating products as experiences, and responsive, accessible interfaces.</h3>
+  <h3>- 🎨 Background in Visual Arts + UX/UI → I design AND build.</h3>
+  <h3>- 💻 Focused on interactive web apps and creative coding.</h3>
+  <h3>- 🌱 Currently mastering React, Tailwind, and Web Animations.</h3>
+  <h3>- 🎮 Exploring gamified interfaces and web-based storytelling.</h3>
+</td>
 </table>
  
 ## 🛠️ Tech stack
