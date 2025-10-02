@@ -15,7 +15,7 @@
 
 <!--
 **LunaBujalesky/LunaBujalesky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
- ## <h3 align="right">🚀 About me</h3>
+<h2 align="right">🚀 About me</h2>
 <table>
   <tr>
     <td>
