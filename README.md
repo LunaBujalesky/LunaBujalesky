@@ -1,4 +1,4 @@
-#<h1 align="center">👋 Hi! I'm Luna Bujalesky, FrontEnd Developer</h1>
+<h1 align="center">👋 Hi! I'm Luna Bujalesky, FrontEnd Developer</h1>
 <h2 align="center">Frontend Developer | UX/UI Designer | Visual Arts + Code</h2>
 <h3 align="center">Native Spanish / C1 English</h3>
 <p align="center">
