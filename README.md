@@ -2,8 +2,10 @@
 Frontend Developer | UX/UI Designer | Visual Arts + Code
 <br>
 Native Spanish / C1 English
+## Let´s get in touch!
 <br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/luna-bujalesky-b60561267))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luna-bujalesky-b60561267)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bujaleskyluna@gmail.com)
 <br>
 <!--
 **LunaBujalesky/LunaBujalesky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
