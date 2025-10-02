@@ -1,22 +1,8 @@
-<img src="data:image/svg+xml;utf8,
-<svg xmlns='http://www.w3.org/2000/svg' width='800' height='400'>
-  <defs>
-    <pattern id='bg' patternUnits='userSpaceOnUse' width='800' height='400'>
-      <image href='https://i.pinimg.com/736x/72/9f/17/729f17c635d4829ee71d800e609bffde.jpg' x='0' y='0' width='800' height='400'/>
-    </pattern>
-  </defs>
-  <rect width='800' height='400' fill='url(#bg)' />
-  <text x='50%' y='50%' font-family='Arial, sans-serif' font-size='48' font-weight='bold' fill='white' text-anchor='middle' dominant-baseline='middle'>
-    <tspan>
-      <animate attributeName='opacity' values='0;1;0' dur='2s' repeatCount='indefinite' />
-      Hi! I'm Luna Bujalesky, FrontEnd Developer
-    </tspan>
-  </text>
-</svg>"/>
-# 👋 Hi, I'm Luna  
-Frontend Developer | UX/UI Designer | Visual Arts + Code
+#<h1 align="center">👋 Hi! I'm Luna Bujalesky, FrontEnd Developer</h1>
+<h2 align="center">Frontend Developer | UX/UI Designer | Visual Arts + Code</h2>
+<h3 align="center">Native Spanish / C1 English</h3>
 <br>
-Native Spanish / C1 English
+
 ## Let´s get in touch!
   
 <a href="https://www.linkedin.com/in/luna-bujalesky-b60561267" target="_blank">
