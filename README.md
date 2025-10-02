@@ -16,12 +16,23 @@
 <!--
 **LunaBujalesky/LunaBujalesky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-## 🚀 About me
--Passionate about creating products as experiences, and responsive, accessible interfaces.-
-- 🎨 Background in Visual Arts + UX/UI → I design AND build.
-- 💻 Focused on in interactive web apps and creative coding.
-- 🌱 Currently mastering React, Tailwind, and Web Animations.
-- 🎮 Exploring gamified interfaces and web-based storytelling.
+<table>
+  <tr>
+    <td>
+      <!-- GIF a la izquierda -->
+      <img src=["https://media.giphy.com/media/3o7TKr3k5wU9X0Ckqk/giphy.gif" width="150"](https://thekenji.xyz/images/toaddance1.gif)/>
+    </td>
+    <td align="right">
+      <!-- Texto alineado a la derecha -->
+      ## 🚀 About me
+      - Passionate about creating products as experiences, and responsive, accessible interfaces.
+      - 🎨 Background in Visual Arts + UX/UI → I design AND build.
+      - 💻 Focused on interactive web apps and creative coding.
+      - 🌱 Currently mastering React, Tailwind, and Web Animations.
+      - 🎮 Exploring gamified interfaces and web-based storytelling.
+    </td>
+  </tr>
+</table>
  
 ## 🛠️ Tech stack
 - **Languages:** JavaScript (ES6+), HTML5, CSS3, SCSS
