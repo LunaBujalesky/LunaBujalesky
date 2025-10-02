@@ -15,12 +15,11 @@
 
 <!--
 **LunaBujalesky/LunaBujalesky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
 <table>
   <tr>
     <td>
       <!-- GIF a la izquierda -->
-      <img src=["https://media.giphy.com/media/3o7TKr3k5wU9X0Ckqk/giphy.gif" width="150"](https://thekenji.xyz/images/toaddance1.gif)/>
+      <img src="https://media.giphy.com/media/3o7TKr3k5wU9X0Ckqk/giphy.gif" width="150"/>
     </td>
     <td align="right">
       <!-- Texto alineado a la derecha -->
