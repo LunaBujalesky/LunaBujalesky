@@ -2,11 +2,7 @@
 <h2 align="center">Frontend Developer | UX/UI Designer | Visual Arts + Code</h2>
 <h3 align="center">Native Spanish / C1 English</h3>
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnU4YmR3M3F3M21namhuMGNpeHduYTU1eW0zMGs5OHVkNHU3amdhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PS8myGd5ItNfBfitEp/giphy.gif" width="80" style="vertical-align: middle; margin-right: 10px;"/>
-
-  <span style="font-size: 24px; font-weight: bold; vertical-align: middle;">Open to Work</span>
-
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazczd2w5M3hlenR4cXQ4aXlmYTltcGZ2eXJ1enB0cGkxYnQyNDdtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CF5JK0bAdnRHvaETg9/giphy.gif" width="80" style="vertical-align: middle; margin-left: 10px;"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnU4YmR3M3F3M21namhuMGNpeHduYTU1eW0zMGs5OHVkNHU3amdhcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PS8myGd5ItNfBfitEp/giphy.gif" width="80" style="vertical-align: middle; margin-right: 10px;"/><span style="font-size: 24px; font-weight: bold; vertical-align: middle;">Open to Work</span><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExazczd2w5M3hlenR4cXQ4aXlmYTltcGZ2eXJ1enB0cGkxYnQyNDdtdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/CF5JK0bAdnRHvaETg9/giphy.gif" width="80" style="vertical-align: middle; margin-left: 10px;"/>
 </p>
 <br>
 
