@@ -65,12 +65,12 @@
     </td>
     <td valign="top" align="center" style="padding: 0 20px;">
       <p style="margin-bottom: 20px;">
-        🌱 <a href="https://plantbuddiesapp.netlify.app">PlantBuddies</a><br/>
+        🌱 <h3><a href="https://plantbuddiesapp.netlify.app">PlantBuddies</a></h3><br/>
         Web app for plant exchange and community<br/>
         <b>HTML + SCSS + JS + JSON</b>
       </p>
       <p>
-        🕵️ <a href="https://epicescaperooms.netlify.app">EpicEscapeRooms</a><br/>
+        🕵️ <h3><a href="https://epicescaperooms.netlify.app">EpicEscapeRooms</a></h3><br/>
         Escape room booking system with a hidden game<br/>
         <b>HTML + JS + JSON</b>
       </p>
