@@ -66,8 +66,8 @@
     <td valign="top" align="center" width="150">
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJhd2k4dDIyZHNyNnluMTF6amJmenpyand4YWRlOTJoN2ZtcHRhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sZ6ipJV1HDOajnb7Rg/giphy.gif" width="120"/>
     </td>
-    <td valign="top" align="center" style="padding: 0 20px;">
-      <p style="margin-bottom: 20px;">
+    <td valign="top" align="center" style="padding: 0 10px;">
+      <p style="margin-bottom: 8px;">
         🌱 <h3><a href="https://plantbuddiesapp.netlify.app">PlantBuddies</a></h3><br/>
         Web app for plant exchange and community<br/>
         <br>HTML + SCSS + JS + JSON</br>
@@ -77,6 +77,11 @@
         🕵️ <h3><a href="https://epicescaperooms.netlify.app">EpicEscapeRooms</a></h3><br/>
         Escape room booking system with a hidden game<br/>
         <b>HTML + JS + JSON</b>
+      </p>
+  <p>
+        🕵️ <h3>Winteka Showroom</h3><br/>
+        Currently under construction, e-commerce<br/>
+        <b>REACT + JSX + JSON</b>
       </p>
     </td>
     <td valign="top" align="center" width="150">
