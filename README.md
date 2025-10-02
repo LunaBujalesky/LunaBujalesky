@@ -73,8 +73,6 @@
       </a>
       <p style="margin: 5px 0 0 0; font-weight: bold; color: #000;">Diego</p>
     </td>
-
-    <!-- Columna derecha: proyectos -->
     <td valign="top" align="left">
       <ul>
         <li>🎮 <a href="https://www.youtube.com/watch?v=eLbe9coqZmc">ResponsiveEsculptures</a> → interdisciplinary thesis for University, ARTS (ceramics) + CODE (arduino), collaborative interaction by touch and sound.</li>
