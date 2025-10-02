@@ -3,15 +3,15 @@ Frontend Developer | UX/UI Designer | Visual Arts + Code
 <br>
 Native Spanish / C1 English
 ## Let´s get in touch!
-<br>
+  
 <a href="https://www.linkedin.com/in/luna-bujalesky-b60561267" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:bujaleskyluna@gmail.com">
+  <a href="mailto:bujaleskyluna@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<br>
+</a>  
+
 <!--
 **LunaBujalesky/LunaBujalesky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -37,15 +37,15 @@ Native Spanish / C1 English
 - 🌱 [PlantBuddies](https://plantbuddiesapp.netlify.app) → Web app for plant exchange and community (HTML + SCSS + JS + JSON)
 - 🕵️ [EpicEscapeRooms](https://epicescaperooms.netlify.app)→ Escape room booking system with a hidden game (HTML + JS + JSON)
 
-- ## 📌 Interactive and Crossdisciplinary projects 
-<br>
-- 🎮 [ResponsiveEsculptures](https://www.youtube.com/watch?v=eLbe9coqZmc) → my interdisciplinary thesis for University, ARTS (ceramics) + CODE (arduino), colaborative interaction by touch and sound.
-- [Formal Research/Paper here](https://sedici.unlp.edu.ar/handle/10915/176935)
-<br>
-- 🎮 [The limits of the body](https://www.instagram.com/p/C0XX4etv7KJ) → another interdisciplinary proyect for University, ARTS (ceramics) + CODE (arduino) + digital handrawing animation, individual interaction by weight and sound.
-<br>
-These projects where in colaboration with:
-<br>
+- ## 📌 Interactive and Crossdisciplinary projects   
+
+- 🎮 [ResponsiveEsculptures](https://www.youtube.com/watch?v=eLbe9coqZmc) → my interdisciplinary thesis for University, ARTS (ceramics) + CODE (arduino), colaborative interaction by touch and sound.  
+- [Formal Research/Paper here](https://sedici.unlp.edu.ar/handle/10915/176935)  
+  
+- 🎮 [The limits of the body](https://www.instagram.com/p/C0XX4etv7KJ) → another interdisciplinary proyect for University, ARTS (ceramics) + CODE (arduino) + digital handrawing animation, individual interaction by weight and sound.  
+
+These projects where in colaboration with:  
+
 <a href="https://github.com/die-jimenez" target="_blank" style="text-decoration: none;">
   <img src="https://github.com/die-jimenez.png?size=40" width="40" height="40" style="border-radius: 50%; vertical-align: middle;" />
   <span style="vertical-align: middle; margin-left: 8px; color: #000;">Diego</span>
