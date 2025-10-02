@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
     <h3 align="center">📌 Digital only Featured projects</h3>
-<table>
+<table align="center">
   <tr>
     <td valign="top" align="center" width="150">
       <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJhd2k4dDIyZHNyNnluMTF6amJmenpyand4YWRlOTJoN2ZtcHRhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sZ6ipJV1HDOajnb7Rg/giphy.gif" width="120"/>
