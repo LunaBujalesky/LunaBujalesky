@@ -72,7 +72,7 @@
         <b>HTML + JS + JSON</b>
       </p>
   <p>
-        🕵️ <h3>Winteka Showroom</h3><br/>
+        🕵️ <h3><a href="(https://lunabujalesky.github.io/WintekaShowroom">Winteka Showroom</h3><br/>
         Currently under construction, e-commerce<br/>
         <b>REACT + JSX + JSON</b>
       </p>
