@@ -66,6 +66,10 @@
         E-commerce aesthetic<br/>
         <b>REACT + JSX + JSON</b>
       </p>
+          </td>
+          <td valign="top" align="center" width="150">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BkbzNzemFhazJydGFmOWUydGtoZXRnM2ZtczZkNGV1NTVnbG43YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9rPrjB5xxuFkxcYVTC/giphy.gif" width="120"/>
+    
         🌱 <h3><a href="https://plantbuddiesapp.netlify.app">PlantBuddies</a></h3><br/>
         Web app for plant exchange and community<br/>
         <br>HTML + SCSS + JS + JSON</br>
@@ -78,9 +82,7 @@
       </p>
  
     </td>
-    <td valign="top" align="center" width="150">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BkbzNzemFhazJydGFmOWUydGtoZXRnM2ZtczZkNGV1NTVnbG43YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9rPrjB5xxuFkxcYVTC/giphy.gif" width="120"/>
-    </td>
+    
   </tr>
 </table>
 
