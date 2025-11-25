@@ -61,6 +61,11 @@
     </td>
     <td valign="top" align="center" style="padding: 0 10px;">
       <p style="margin-bottom: 8px;">
+         <p>
+        🕵️ <h3><a href="https://wintekashowroom.vercel.app">Winteka Showroom</h3><br/>
+        E-commerce aesthetic<br/>
+        <b>REACT + JSX + JSON</b>
+      </p>
         🌱 <h3><a href="https://plantbuddiesapp.netlify.app">PlantBuddies</a></h3><br/>
         Web app for plant exchange and community<br/>
         <br>HTML + SCSS + JS + JSON</br>
@@ -71,11 +76,7 @@
         Escape room booking system with a hidden game<br/>
         <b>HTML + JS + JSON</b>
       </p>
-  <p>
-        🕵️ <h3><a href="https://lunabujalesky.github.io/WintekaShowroom">Winteka Showroom</h3><br/>
-        Currently under construction, e-commerce<br/>
-        <b>REACT + JSX + JSON</b>
-      </p>
+ 
     </td>
     <td valign="top" align="center" width="150">
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BkbzNzemFhazJydGFmOWUydGtoZXRnM2ZtczZkNGV1NTVnbG43YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9rPrjB5xxuFkxcYVTC/giphy.gif" width="120"/>
