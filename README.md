@@ -54,38 +54,38 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
     <h3 align="center">📌 Digital only Featured projects</h3>
-<table align="center">
+<<table align="center">
   <tr>
-    
-    <!-- CARD 1 -->
-    <td align="center" width="260" style="border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
-      <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJhd2k4dDIyZHNyNnluMTF6amJmenpyand4YWRlOTJoN2ZtcHRhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sZ6ipJV1HDOajnb7Rg/giphy.gif" width="120"/>
+
+    <!-- Columna 1 -->
+    <td valign="top" align="center" width="150">
+      <img 
+        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJhd2k4dDIyZHNyNnluMTF6amJmenpyand4YWRlOTJoN2ZtcHRhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/sZ6ipJV1HDOajnb7Rg/giphy.gif" 
+        width="120"
+      />
       <h3>🕵️ <a href="https://wintekashowroom.vercel.app">Winteka Showroom</a></h3>
-      <p>E-commerce aesthetic</p>
-      <p><b>REACT + JSX + JSON</b></p>
+      E-commerce aesthetic<br/>
+      <b>REACT + JSX + JSON</b>
     </td>
 
-    <!-- Espacio entre cards -->
-    <td width="20"></td>
+    <!-- Columna 2 -->
+    <td valign="top" align="center" style="padding: 0 20px;">
+      <img 
+        src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BkbzNzemFhazJydGFmOWUydGtoZXRnM2ZtczZkNGV1NTVnbG43YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9rPrjB5xxuFkxcYVTC/giphy.gif" 
+        width="120"
+      />
 
-    <!-- CARD 2 -->
-    <td align="center" width="260" style="border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BkbzNzemFhazJydGFmOWUydGtoZXRnM2ZtczZkNGV1NTVnbG43YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9rPrjB5xxuFkxcYVTC/giphy.gif" width="120"/>
       <h3>🌱 <a href="https://plantbuddiesapp.netlify.app">PlantBuddies</a></h3>
-      <p>Web app for plant exchange and community</p>
-      <p><b>HTML + SCSS + JS + JSON</b></p>
-      <p>In collaboration with <a href="https://epicescaperooms.netlify.app">Romi</a></p>
-    </td>
+      Web app for plant exchange and community<br/>
+      <b>HTML + SCSS + JS + JSON</b><br/>
+      In collaboration with 
+      <a href="https://epicescaperooms.netlify.app">Romi</a>
 
-    <!-- Espacio entre cards -->
-    <td width="20"></td>
+      <br/><br/>
 
-    <!-- CARD 3 -->
-    <td align="center" width="260" style="border: 1px solid #ddd; border-radius: 10px; padding: 15px;">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BkbzNzemFhazJydGFmOWUydGtoZXRnM2ZtczZkNGV1NTVnbG43YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9rPrjB5xxuFkxcYVTC/giphy.gif" width="120"/>
       <h3>🕵️ <a href="https://epicescaperooms.netlify.app">EpicEscapeRooms</a></h3>
-      <p>Escape room booking system with hidden game</p>
-      <p><b>HTML + JS + JSON</b></p>
+      Escape room booking system with a hidden game<br/>
+      <b>HTML + JS + JSON</b>
     </td>
 
   </tr>
